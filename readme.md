@@ -33,5 +33,12 @@
 - java中字符都是unicode，unicode都是两个字节，包括中utf8中三个字节表示的汉字，所以char也可以表示汉字
 - char类型可以直接计算，是其所对应的unicode编码序号直接参与计算的
 - char用''表示，里面必须且只能有一个字符
+[代码](src/main/java/org/ai88/chapter02/TestChar.java)
+
+### 2.4 布尔类型
+
+**boolean**
+- 只有两个值 `true`和`false`，不能用0,1表示，和其他语言有一些区别
+- 一般我们不谈布尔类型占用空间大小。非要谈的话，就是占用4个字节大小
 
 
