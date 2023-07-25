@@ -24,4 +24,6 @@
 
 如果需要更高的精度，可以使用`BigDecimal`这个类
 
+[代码](src/main/java/org/ai88/chapter02/TestVariable2.java)
+
 

@@ -1,6 +1,6 @@
 package org.ai88.chapter02;
 
-public class TestVarible2 {
+public class TestVariable2 {
     public static void main(String[] args) {
         double d1 = 0.2;
         double d2 = 0.1;
