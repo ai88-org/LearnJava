@@ -56,5 +56,14 @@
 
 [代码](src/main/java/org/ai88/chapter02/AutomaticTypePromotion.java)
 
+### 2.6 强制类型转换
+
+- 容量大的数据类型变量转换成容量小的数据类型变量，需要使用强制类型转换
+- 强制类型转换需要使用强转符
+- 可能会丢失数据
+
+[代码](src/main/java/org/ai88/chapter02/TypeCasting.java)
+
+
 
 
