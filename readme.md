@@ -26,4 +26,12 @@
 
 [代码](src/main/java/org/ai88/chapter02/TestVariable2.java)
 
+### 2.3 字符型
+
+**char** 
+- 占据两个字节
+- java中字符都是unicode，unicode都是两个字节，包括中utf8中三个字节表示的汉字，所以char也可以表示汉字
+- char类型可以直接计算，是其所对应的unicode编码序号直接参与计算的
+- char用''表示，里面必须且只能有一个字符
+
 
