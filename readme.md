@@ -64,6 +64,8 @@
 
 [代码](src/main/java/org/ai88/chapter02/TypeCasting.java)
 
+### 2.7 String类型
 
-
-
+- 引用类型
+- 与8种基本数据类型做连接运算，"+"
+- 运算的结果是String类型
