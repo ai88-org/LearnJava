@@ -1,0 +1,10 @@
+1、写一个名为Account的类模拟账户。该类的属性和方法如下：
+    属性：
+        账户id、余额balance、年利率annualInterestRate
+    构造器：
+        自定义
+    方法：
+        getter/setter
+        取款方法withdraw()
+        存款方法deposit()
+提示：在提款方法withdraw()中，需要判断用户余额是否能够满足提款数额的要求，如果不能，应给出提示。
