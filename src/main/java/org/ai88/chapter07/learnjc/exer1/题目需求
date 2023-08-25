@@ -1,0 +1,10 @@
+1、定义一个mankind类，包括
+- 成员变量 int sex和int salary
+- 方法 void manOrWoman;根据sex的值显示man(sex=1)，woman(sex=0)
+- 方法void employeed()；根据salary值显示"no job(salary=0)"或者"job(salary != 0)"
+
+2、定义kids类集成mankind类，包括
+- 定义成员变量Int yearsOld
+- 方法printAge()打印yearsOld的值
+
+3、定义类KidsTest，在类的main方法中实例化Kids的对象someKid，用该对象访问其父类的成员变量和方法。
